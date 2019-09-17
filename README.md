@@ -171,7 +171,7 @@ please provide as many details as is possible about the problem that you
 experienced.
 
 Please note that these assignment sheets have been developed and tested on an
-Ubuntu 16.04 workstation running a recent version of LaTeX that was manually
+Ubuntu 18.04 workstation running a recent version of LaTeX that was manually
 installed using the TeXLive installer. It is also worth noting that you can
 compile the `senior_thesis_status_update.tex` file using LaTeX development tools
 such as `latexmk` or `pdflatex`. If you are unable to compile this file with
